@@ -7,17 +7,6 @@
 
 A sleek and secure front-end banking application built with **React**. This project showcases a modern "Cyber Core" user interface and demonstrates the implementation of essential web security principles in a client-side environment.
 
----
-
-## ✨ Live Demo & Sneak Peek
-
-*This is a front-end only demonstration. All data is stored in-memory and will be reset upon refreshing the page.*
-
-![SecureBank Dashboard](https://i.imgur.com/your-screenshot-link-here.png)
-*(**Note:** You should replace the link above with a real screenshot of your app's dashboard!)*
-
----
-
 ## 🚀 Core Features
 
 This application is built from the ground up with security and user experience in mind.
